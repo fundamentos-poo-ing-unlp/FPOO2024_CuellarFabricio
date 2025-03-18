@@ -1,0 +1,132 @@
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\TIv2.exe
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\TIv2.deps.json
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\TIv2.runtimeconfig.json
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\TIv2.dll
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\TIv2.pdb
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\obj\Debug\net8.0-windows\TIv2.Form1.resources
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\obj\Debug\net8.0-windows\TIv2.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\obj\Debug\net8.0-windows\TIv2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\obj\Debug\net8.0-windows\TIv2.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\obj\Debug\net8.0-windows\TIv2.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\obj\Debug\net8.0-windows\TIv2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\obj\Debug\net8.0-windows\TIv2.dll
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\obj\Debug\net8.0-windows\refint\TIv2.dll
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\obj\Debug\net8.0-windows\TIv2.pdb
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\obj\Debug\net8.0-windows\TIv2.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\obj\Debug\net8.0-windows\ref\TIv2.dll
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\obj\Debug\net8.0-windows\TIv2.Properties.Resources.resources
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\GMap.NET.Core.dll
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\GMap.NET.WindowsForms.dll
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\obj\Debug\net8.0-windows\TIv2.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\obj\Debug\net8.0-windows\TIv2.csproj.Up2Date
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\obj\Debug\net8.0-windows\TIv2.FormNuevaEstacion.resources
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\obj\Debug\net8.0-windows\TIv2.SubForms.FormNuevoEquipo.resources
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\obj\Debug\net8.0-windows\TIv2.SubForms.FormEditarEquipo.resources
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\obj\Debug\net8.0-windows\TIv2.SubForms.FormNuevaVia.resources
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\obj\Debug\net8.0-windows\TIv2.SubForms.FormEditVia.resources
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\HarfBuzzSharp.dll
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\OpenTK.dll
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\OpenTK.GLControl.dll
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\ScottPlot.dll
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\ScottPlot.WinForms.dll
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\SkiaSharp.dll
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\SkiaSharp.HarfBuzz.dll
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\SkiaSharp.Views.WindowsForms.dll
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\Usuario\Documents\Posgrados\POO - UNLP\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+D:\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\TIv2.exe
+D:\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\TIv2.deps.json
+D:\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\TIv2.runtimeconfig.json
+D:\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\TIv2.dll
+D:\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\TIv2.pdb
+D:\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+D:\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\EntityFramework.dll
+D:\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\GMap.NET.Core.dll
+D:\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\GMap.NET.WindowsForms.dll
+D:\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\HarfBuzzSharp.dll
+D:\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\OpenTK.dll
+D:\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\OpenTK.GLControl.dll
+D:\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\ScottPlot.dll
+D:\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\ScottPlot.WinForms.dll
+D:\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\SkiaSharp.dll
+D:\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\SkiaSharp.HarfBuzz.dll
+D:\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\SkiaSharp.Views.Desktop.Common.dll
+D:\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\SkiaSharp.Views.WindowsForms.dll
+D:\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+D:\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+D:\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libHarfBuzzSharp.so
+D:\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+D:\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+D:\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libHarfBuzzSharp.so
+D:\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\runtimes\osx\native\libHarfBuzzSharp.dylib
+D:\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+D:\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\runtimes\win-x64\native\libHarfBuzzSharp.dll
+D:\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\runtimes\win-x86\native\libHarfBuzzSharp.dll
+D:\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libSkiaSharp.so
+D:\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libSkiaSharp.so
+D:\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libSkiaSharp.so
+D:\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libSkiaSharp.so
+D:\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+D:\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+D:\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+D:\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+D:\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+D:\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Trabajo Integrador\TIv2\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Trabajo Integrador\TIv2\obj\Debug\net8.0-windows\TIv2.csproj.AssemblyReference.cache
+D:\Trabajo Integrador\TIv2\obj\Debug\net8.0-windows\TIv2.Form1.resources
+D:\Trabajo Integrador\TIv2\obj\Debug\net8.0-windows\TIv2.Properties.Resources.resources
+D:\Trabajo Integrador\TIv2\obj\Debug\net8.0-windows\TIv2.SubForms.FormEditarEquipo.resources
+D:\Trabajo Integrador\TIv2\obj\Debug\net8.0-windows\TIv2.SubForms.FormEditVia.resources
+D:\Trabajo Integrador\TIv2\obj\Debug\net8.0-windows\TIv2.FormNuevaEstacion.resources
+D:\Trabajo Integrador\TIv2\obj\Debug\net8.0-windows\TIv2.SubForms.FormNuevaVia.resources
+D:\Trabajo Integrador\TIv2\obj\Debug\net8.0-windows\TIv2.SubForms.FormNuevoEquipo.resources
+D:\Trabajo Integrador\TIv2\obj\Debug\net8.0-windows\TIv2.csproj.GenerateResource.cache
+D:\Trabajo Integrador\TIv2\obj\Debug\net8.0-windows\TIv2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trabajo Integrador\TIv2\obj\Debug\net8.0-windows\TIv2.AssemblyInfoInputs.cache
+D:\Trabajo Integrador\TIv2\obj\Debug\net8.0-windows\TIv2.AssemblyInfo.cs
+D:\Trabajo Integrador\TIv2\obj\Debug\net8.0-windows\TIv2.csproj.CoreCompileInputs.cache
+D:\Trabajo Integrador\TIv2\obj\Debug\net8.0-windows\TIv2.csproj.Up2Date
+D:\Trabajo Integrador\TIv2\obj\Debug\net8.0-windows\TIv2.dll
+D:\Trabajo Integrador\TIv2\obj\Debug\net8.0-windows\refint\TIv2.dll
+D:\Trabajo Integrador\TIv2\obj\Debug\net8.0-windows\TIv2.pdb
+D:\Trabajo Integrador\TIv2\obj\Debug\net8.0-windows\TIv2.genruntimeconfig.cache
+D:\Trabajo Integrador\TIv2\obj\Debug\net8.0-windows\ref\TIv2.dll
